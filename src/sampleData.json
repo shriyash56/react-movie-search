@@ -1,0 +1,46 @@
+{
+  "Search": [
+    {
+      "Title": "Ant-Man",
+      "Year": "2015",
+      "imdbID": "tt0321249",
+      "Type": "movie",
+      "Director": "Peyton Reed",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "imdbRating": "7.2",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Batman: The Killing Joke",
+      "Year": "2016",
+      "imdbID": "tt4853102",
+      "Type": "movie",
+      "Director": "Sam Liu",
+      "Genre": "Animation, Action, Crime, Drama, Thriller",
+      "imdbRating": "6.4",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDNhYmFjZGQtNjE3ZC00N2VmLWI0MWItODkxMmE2MWNiM2M5XkEyXkFqcGdeQXVyNzU1OTYxNzU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Amazing Spider-Man 2",
+      "Year": "2014",
+      "imdbID": "tt1872181",
+      "Type": "movie",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "Marc Webb",
+      "imdbRating": "6.6",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "hulk",
+      "Year": "2003",
+      "imdbID": "tt1241721",
+      "Type": "movie",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Óskar Jónasson",
+      "imdbRating": "4.9",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQwZDg1MGEtN2E5My00ZDJlLWI4MzItM2U2MjJhYzlkNmEzXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "30",
+  "Response": "True"
+}
