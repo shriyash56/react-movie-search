@@ -85,24 +85,12 @@ export default function SearchBar() {
         {Title === "" && Year === "" && Id === ""
           ? defaultData.Search.map((ele) => {
               return (
-                <Cards
-                  Title={ele.Title}
-                  Director={ele.Director}
-                  Imdb={ele.imdbRating}
-                  Genre={ele.Genre}
-                  Poster={ele.Poster}
-                />
+                <Cards Title={ele.Title} Year={ele.Year} Poster={ele.Poster} />
               );
             })
           : data.map((ele) => {
               return (
-                <Cards
-                  Title={ele.Title}
-                  Director={ele.Director}
-                  Imdb={ele.imdbRating}
-                  Genre={ele.Genre}
-                  Poster={ele.Poster}
-                />
+                <Cards Title={ele.Title} Year={ele.Year} Poster={ele.Poster} />
               );
             })}
       </div>
