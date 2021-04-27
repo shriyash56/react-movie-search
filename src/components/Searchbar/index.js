@@ -38,7 +38,7 @@ export default function SearchBar() {
     <>
       <div className="relative shadow-lg my-10 p-5 rounded-md mx-5">
         <form onSubmit={handleSubmit}>
-          <div className="field-group grid grid-cols-2 md:grid-cols-4 gap-4 flex justify-around ">
+          <div className="field-group flex flex-col md:flex-row justify-around  ">
             <input
               type="search"
               name="title"
